@@ -358,3 +358,10 @@ function checkrecoverresults(){
   fi
 }
 
+#Exec start
+syntaxcheck
+mountcheck
+clear
+>$tmp
+>$roots
+regexbuild
