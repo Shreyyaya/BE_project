@@ -1,14 +1,4 @@
 
-
-
-#!/usr/bin/env tclsh
-##
-## Copyright (c) 2019 Jan Kandziora <jjj@gmx.de>
-##
-## This source code is licensed under the GNU General Public License,
-## Version 3. See the file COPYING for more details.
-##
-
 ## Load packages.
 package require cmdline
 
