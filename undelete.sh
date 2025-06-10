@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
-#Author: Daniel Elf
-#Tested w/ btrfs-progs v5.19.1
-#Description: Somewhat interactive "undeleter" for BTRFS file systems.
-#  This will not work for every file in every scenario
-#  The best 'undeletion' you can do is to recover from backup :-)
+
 #Syntax: ./undeletebtrfs.sh <dev> <dst>
 #Example: ./undeletebtrfs.sh /dev/sda1 /mnt/undeleted
 #NOTE: device must be unmounted
